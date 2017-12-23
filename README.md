@@ -28,6 +28,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ![Commodity details page](https://github.com/danyxuu/elem/raw/master/resource/%E5%95%86%E5%93%81%E9%A1%B52.jpg)
 ![Commodity details page](https://github.com/danyxuu/elem/raw/master/resource/%E5%95%86%E5%93%81%E9%A1%B5_%E5%85%AC%E5%91%8A%E5%8F%8A%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF1.jpg)
 ![Commodity details page](https://github.com/danyxuu/elem/raw/master/resource/%E5%95%86%E5%93%81%E9%A1%B5_%E8%B4%AD%E7%89%A9%E8%BD%A6%E8%AF%A6%E6%83%851.jpg)
+![Commodity details page](https://github.com/danyxuu/elem/raw/master/resource/%E8%AF%84%E4%BB%B7%E9%A1%B53.jpg)
 ![Commodity details page](https://github.com/danyxuu/elem/raw/master/resource/%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2_%E5%95%86%E5%93%81%E8%AF%A6%E6%83%852.jpg)
 ![Commodity details page](https://github.com/danyxuu/elem/raw/master/resource/%E5%95%86%E5%AE%B6%E9%A1%B52.jpg)
-![Commodity details page](https://github.com/danyxuu/elem/raw/master/resource/%E8%AF%84%E4%BB%B7%E9%A1%B53.jpg)
